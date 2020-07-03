@@ -1675,5 +1675,16 @@ img {
     text-align: center;
     font-size: x-large ;
 }
-
+.agileits-w3layouts-copyright p{
+	margin:0;
+    font-size: 1em;
+    color: #BBBBBB;
+}
+.agileits-w3layouts-copyright p a{
+    color: #FFFFFF;	
+	text-decoration:none;
+}
+.agileits-w3layouts-copyright p a:hover{
+	color: #BBBBBB;
+}
 
