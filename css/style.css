@@ -630,7 +630,7 @@ a.read-more {
 /*-- //banner --*/
 
 .services {
-    background: #c20d00;
+    background-image: url(../images/sky.jpg);
 }
 
 h3.tittle,
